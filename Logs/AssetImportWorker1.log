@@ -180,3 +180,9 @@ Received Import Request.
   path: Assets/Scenes
   artifactKey: Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes using Guid(131a6b21c8605f84396be9f6751fb6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4935f35005d3ccd51bf39964504ff1b7') in 0.026585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 718.027913 seconds.
+  path: Assets/Player.prefab
+  artifactKey: Guid(80ec0b7463af2014fb5528fa33f291a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.prefab using Guid(80ec0b7463af2014fb5528fa33f291a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ffbc11f28731861d6cbf76d3f750a88') in 0.610672 seconds 

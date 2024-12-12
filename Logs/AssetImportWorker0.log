@@ -180,3 +180,9 @@ Received Import Request.
   path: Assets/Scenes/SampleScene.unity
   artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed1ec584b86adc936d786dcf072fa9c6') in 0.023625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 718.008394 seconds.
+  path: Assets/Floor.prefab
+  artifactKey: Guid(9084610d39524b54585609733850a9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Floor.prefab using Guid(9084610d39524b54585609733850a9a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7d695f094973e143ee7eb4b6de8cc4') in 0.619019 seconds 
